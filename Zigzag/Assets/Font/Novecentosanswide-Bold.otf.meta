@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 590db9c5cf2072045b4f2cb9f56c96c2
+timeCreated: 1515396596
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Novecento sans wide
+  fontNames:
+  - Novecento sans wide
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
